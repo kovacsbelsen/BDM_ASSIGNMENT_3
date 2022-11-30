@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DATA/BDM_ASSIGNMENT_3/mlruns/972559295495245197/55afec76ce6f4e9591c7c0ae7443da10/artifacts
+end_time: 1669630367351
+entry_point_name: ''
+experiment_id: '972559295495245197'
+lifecycle_stage: active
+run_id: 55afec76ce6f4e9591c7c0ae7443da10
+run_name: run
+run_uuid: 55afec76ce6f4e9591c7c0ae7443da10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669630364132
+status: 3
+tags: []
+user_id: kovac
